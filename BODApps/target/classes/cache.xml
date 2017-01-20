@@ -6,10 +6,10 @@
 	version="8.1">
     <pool name="myPool">
     	<!-- <locator host="vxrack001srv009.daas.corp.telstra.com" port="10334"></locator> -->
-        <server host="10.108.0.155" port="40401"/>
-        <server host="10.108.0.155" port="40402"/>
+        <server host="10.60.105.109" port="39375"/>
+        <!-- <server host="10.108.0.155" port="40402"/>
         <server host="10.108.4.79" port="40403"/>
-        <server host="10.108.4.79" port="40404"/>
+        <server host="10.108.4.79" port="40404"/> -->
     </pool>
     <region name="cat_staging">
     	<region-attributes refid="PROXY">
